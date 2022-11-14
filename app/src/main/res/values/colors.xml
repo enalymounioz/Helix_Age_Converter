@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //Custom Elix Colors
+    <color name="almost_black">#181717</color>
+    <color name="blue">#297dc4</color>
+    <color name="light_blue">#49cbe8 </color>
+    <color name="dark_teal">#2A5253</color>
+    <color name="steelblue">#607d8b</color>
+
+    <color name="light_grey">#fbfbfb</color>
+    <color name="yellow">#f8c74b</color>
+    <color name="green">#1d8d1d</color>
+    <color name="red">#FF0000</color>
+
+
+    //Text Colors
+    <color name="textColorTitle">@color/dark_teal</color>
+    <color name="textColorBtn">@color/white</color>
+    <color name="textColor">@color/almost_black</color>
+
+    //Background Colors
+    <color name="backgroundColorBtn">@color/blue</color>
+    <color name="backgroundColor">@color/light_grey</color>
+    <color name="primaryColor">#FFA938</color>
+</resources>
