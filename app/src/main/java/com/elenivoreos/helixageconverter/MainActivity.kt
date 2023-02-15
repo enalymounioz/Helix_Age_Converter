@@ -3,31 +3,20 @@ package com.elenivoreos.helixageconverter
 import android.app.DatePickerDialog
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
-import android.widget.TextView
 import android.widget.Toast
+import androidx.databinding.DataBindingUtil
+import com.elenivoreos.helixageconverter.databinding.ActivityMainBinding
 import java.text.SimpleDateFormat
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
-
-    private var tvSelectedDate: TextView? = null
-    private var tvAgeInMinutes: TextView? = null
-    private var tvAgeInHours : TextView? = null
+    private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
-        val btnDatePicker: Button = findViewById(R.id.btnDatePicker)
-        tvSelectedDate = findViewById(R.id.tvSelectedDate)
-        tvAgeInMinutes = findViewById(R.id.tvAgeInMinutes)
-        tvAgeInHours = findViewById(R.id.tvAgeInHours)
-
-
-        btnDatePicker.setOnClickListener {
+        binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
+        binding.btnDatePicker.setOnClickListener {
             clickDatePicker()
-
         }
     }
 
@@ -51,7 +40,7 @@ class MainActivity : AppCompatActivity() {
 
                 val selectedDate = "$selectedDayOfMonth/${selectedMonth + 1}/$selectedYear"
 
-                tvSelectedDate?.text = selectedDate
+                binding.tvSelectedDate.text = selectedDate
 
                 val sdf = SimpleDateFormat("dd/MM/yyyy", Locale.ENGLISH)
 
@@ -65,19 +54,16 @@ class MainActivity : AppCompatActivity() {
 
                         val differenceInMinutes = currentDateInMinutes - selectedDateInMinutes
                         val differenceInHours = differenceInMinutes /60
-                        tvAgeInMinutes?.text = differenceInMinutes.toString()
-                        tvAgeInHours?.text = differenceInHours.toString()
+                        binding.tvAgeInMinutes.text = differenceInMinutes.toString()
+                        binding.tvAgeInHours.text = differenceInHours.toString()
 
 
                     }
-
                 }
-
             },
             year,
             month,
             day
         ).show()
-
     }
 }

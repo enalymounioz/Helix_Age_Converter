@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/font_segoe_ui_italic.ttf.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/font/segoe_ui_italic.ttf"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/drawable_logo.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/drawable/logo.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/font_segoe_ui.ttf.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/font/segoe_ui.ttf"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-xhdpi_ic_channel.png.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/mipmap-xhdpi/ic_channel.png"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/font_segoe_ui_bold_italic.ttf.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/font/segoe_ui_bold_italic.ttf"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/drawable_ic_channel_background.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/drawable/ic_channel_background.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-anydpi-v26_ic_channel.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/mipmap-anydpi-v26/ic_channel.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/drawable_ic_channel_foreground.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/drawable/ic_channel_foreground.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.elenivoreos.helixageconverter.app-debug-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.elenivoreos.helixageconverter.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/font_segoe_ui_bold.ttf.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/font/segoe_ui_bold.ttf"
+    },
+    {
+        "merged": "com.elenivoreos.helixageconverter.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.elenivoreos.helixageconverter.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
